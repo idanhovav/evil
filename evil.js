@@ -1,1 +1,1 @@
-alert("I am committed.");
+{{ alert("I am committed."); }}
